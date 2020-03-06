@@ -1,0 +1,17 @@
+HTTP REQUEST 
+GET
+POST
+PUT
+DELETE
+
+request
+headers--> lo que se envia al servidor, peticiones
+data---> lo que enviamos al server, datos, lista, diccionario
+URL-->   
+
+HTTP
+100
+200
+300
+400
+500
